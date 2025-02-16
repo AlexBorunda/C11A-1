@@ -1,0 +1,29 @@
+commit 812122a01440bac0aa0537a47d59c7b332028118
+Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
+Date:   Sun Feb 16 15:53:52 2025 -0700
+
+    removed /bin/
+
+commit eef2bdb5d273ace355fe055346ff696f499f54b1
+Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
+Date:   Sun Feb 16 15:50:42 2025 -0700
+
+    fixed .gitignore
+
+commit 1d394a1f75415e8ac62b52810d4f690f9c50a6df
+Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
+Date:   Sun Feb 16 15:47:38 2025 -0700
+
+    made .gitignore and wrote it
+
+commit 12d3c507901dc0d1a6cb0cae77f8346cd5539cb5
+Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
+Date:   Sun Feb 16 15:29:45 2025 -0700
+
+    Extracted file; removed readme
+
+commit 94f44a69d2c8520a08d1cc483d1c24e9935a6ed4
+Author: aborunda <alex.borunda01@gmail.com>
+Date:   Sat Feb 15 10:40:08 2025 -0700
+
+    adding the README file to the repo
