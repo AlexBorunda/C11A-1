@@ -1,20 +1,31 @@
+Bryson Cunliffe and Alex Borunda
+
+    -   First commit was done by Alex (Solo)
+    -   All other commits were done by Bryson as the Driver and Alex as the Navigator
+
+commit 4fdfe5fff85001ddb4b4ba7027fb619fcb3514c6
+Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
+Date:   Sun Feb 16 16:00:08 2025 -0700
+
+    added git log; link repo to 'main'
+
 commit 812122a01440bac0aa0537a47d59c7b332028118
 Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
 Date:   Sun Feb 16 15:53:52 2025 -0700
 
-    removed /bin/
+    removed /bin/; and untracked /bin/ from .gitignore
 
 commit eef2bdb5d273ace355fe055346ff696f499f54b1
 Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
 Date:   Sun Feb 16 15:50:42 2025 -0700
 
-    fixed .gitignore
+    fixed .gitignore to remove /bin/
 
 commit 1d394a1f75415e8ac62b52810d4f690f9c50a6df
 Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
 Date:   Sun Feb 16 15:47:38 2025 -0700
 
-    made .gitignore and wrote it
+    made .gitignore and wrote it to remove the picture, and other folders except /srs/
 
 commit 12d3c507901dc0d1a6cb0cae77f8346cd5539cb5
 Author: Bryson-Cunliffe <brysoncunliffe@gmail.com>
